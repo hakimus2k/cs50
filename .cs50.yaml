@@ -1,0 +1,8 @@
+check50:
+  checks:
+    degrees:
+      - run python degrees.py
+        stdin: Cary Elwes
+        stdin: Tom Cruise
+        exit: 0 
+      
