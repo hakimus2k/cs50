@@ -1,8 +1,5 @@
 check50:
-  checks:
-    degrees:
-      - run python degrees.py
-        stdin: Cary Elwes
-        stdin: Tom Cruise
+  checks: "degrees_v3.py"
+      - run python projects/2024/x/degrees.py
         exit: 0 
       
