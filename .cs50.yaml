@@ -1,7 +1,7 @@
 check50:
   checks:
     degrees:
-      - run python degrees.py
+      - run python projects/2024/x/degrees.py
         stdin: Cary Elwes
         stdin: Tom Cruise
         exit: 0 
